@@ -1,0 +1,13 @@
+.rating_summary_container {
+    width: fit-content;
+
+    margin: auto;
+    padding: .5em .8em;
+
+    font-size: .7rem;
+
+    color: var(--primary-background);
+
+    background-color: var(--secondary-background-500);
+    border-radius: 100vh;
+}
